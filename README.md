@@ -24,6 +24,9 @@ $ docker build --compress -t  seu_user/go-soma .
 # Referências 
 
 https://romulojales.com/golang-tudo-comeca-com-um-teste.html
+
 https://www.dotnetperls.com/parseint-go
+
 https://gobyexample.com/command-line-arguments
+
 https://golang.org/
